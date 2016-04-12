@@ -21,6 +21,11 @@
             "name": "Armin Ronacher",
             "email": "armin.ronacher@active-4.com",
             "role": "Project Founder"
+        },
+        {
+            "name": "Arvind Kala",
+            "email": "arvindkala@mailinator.com",
+            "role": "Project Contributer"
         }
     ],
     "support": {
